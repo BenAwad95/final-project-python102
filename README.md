@@ -9,3 +9,10 @@ Write function that take unlimited number of arguments in form *'Name, Birth dat
 
 1. Birth date in form **dd-mm-yyyy**
 2. If there`s one person return **"There is no oldest or youngest person"**
+3. Return **"Invalid date"** with person name that has invalid date.
+
+### Additional Requirements
+
+1. Sort the people from youngest to oldest.
+2. Return same arguments in opposite order.
+3. Return only people who's born on Sunday.
